@@ -1,13 +1,11 @@
 
 import javax.swing.table.DefaultTableModel;
 
-
 public class FrmIngresarDatos extends javax.swing.JFrame {
 
     public FrmIngresarDatos() {
         initComponents();
     }
-
  
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">                          
